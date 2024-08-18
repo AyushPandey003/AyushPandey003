@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [link](link)
 
-- 💬 Ask me about **python tkinter**
-
 - 📫 How to reach me **Ayush12122003@gmail.com**
 
 - ⚡ Fun fact **I always live in present**
