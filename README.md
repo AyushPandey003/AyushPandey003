@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Web Development**
+  
+- - Ask Me About **Development**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
