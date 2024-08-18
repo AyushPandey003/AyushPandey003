@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **App clone**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **React Django**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
