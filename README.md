@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 - - Ask Me About **Development**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at ["https://github.com/AyushPandey003?tab=repositories"](link)
 
 - 📫 How to reach me **Ayush12122003@gmail.com**
 
