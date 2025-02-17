@@ -23,80 +23,84 @@
 - 👨‍💻 Check out my projects: [GitHub Repositories](https://github.com/AyushPandey003?tab=repositories)
 - 📫 How to reach me: **Ayush12122003@gmail.com**
 - ⚡ Fun fact: **Nothing is permanent. There is always scope for improvement.**
+- MY Website: [Portfolio](https://ayush003.vercel.app)
 
 ---
 
 ### 🛠 Tech Stack:
 > Tools, languages, and frameworks I like working with.
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="100">
-      <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
-      <br>SQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
-      <br>Three.js
-    </td>
-  </tr>
-</table>
+<div style="width: 100%;">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+        <br>Spring Boot
+      </td>
+      <td align="center" width="200">
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+        <br>Vite
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
+        <br>Three.js
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -120,23 +124,33 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-## 📊 GitHub Stats
+## 📊 Stats:
 <table>
-  <tr>
+  <tr align="center">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPandey003&layout=compact&langs_count=8&theme=radical" height="200" />
+      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet200" height="100" width="100" /></a>
+      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leet50" height="100" width="100" /></a>
+      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="knight" height="100" width="100" /></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AyushPandey003&show_icons=true&theme=radical" height="200" />
+      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/coder_ayush_leet?theme=dark&font=Nunito&ext=contest" /></a> 
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushPandey003" alt="GitHub Streak" />
-    </td>
+    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey003&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
   </tr>
-  
+  <tr>
+    <th>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpandey003&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Ayush's Most Used Languages"/></p>
+    </th>
+    <th>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ayushpandey003&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Ayush's GitHub Stats"/>
+      </p>
+    </th>
+    <th>
+<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayushpandey003&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Ayush's Github Stats" /></p> -->
+<!--       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpandey003&theme=neon-dark&hide_border=true" alt="Ayush's Streak Stat's"/></p> -->
+    </th>
+  </tr>
 </table>
-
