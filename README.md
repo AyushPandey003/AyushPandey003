@@ -1,9 +1,10 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
+<h1 align="center">
+  Hi 👋, I'm Ayush Pandey
+  <p align = "center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer" alt="ayushpandey"/>
+  </p>
+</h1>
 <h3 align="center">Learning new things and implementing them for a good cause.</h3>
-
-<img align="right" alt="coding" width="400px" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushPandey003&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPandey003" /> </p>
 
@@ -128,29 +129,25 @@
 <table>
   <tr align="center">
     <td>
-      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet200" height="100" width="100" /></a>
-      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leet50" height="100" width="100" /></a>
-      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="knight" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet200" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leet50" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="knight" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" alt="guardian" height="100" width="100" /></a>
     </td>
     <td>
-      <a href="https://leetcode.com/coder_ayush_leet/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/coder_ayush_leet?theme=dark&font=Nunito&ext=contest" /></a> 
+      <a href="https://leetcode.com/u/coder_ayush_leet/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/coder_ayush_leet?theme=dark&font=Nunito&ext=contest" /></a> 
     </td>
   </tr>
   <tr>
-    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey003&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Shrey's Github Activity Graph"/></p>
+    <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey003&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Ayush's Github Activity Graph"/></p>
   </tr>
   <tr>
     <th>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpandey003&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Ayush's Most Used Languages"/></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPandey003&title_color=e41d44&bg_color=020200&text_color=e77724&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Shrey's Most Used Languages"/></p>
     </th>
     <th>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ayushpandey003&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Ayush's GitHub Stats"/>
-      </p>
-    </th>
-    <th>
-<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayushpandey003&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Ayush's Github Stats" /></p> -->
-<!--       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpandey003&theme=neon-dark&hide_border=true" alt="Ayush's Streak Stat's"/></p> -->
+<!--       <p><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shreyvarshney1&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=171515&title_color=F85D7F&icon_color=AAFF00&text_color=FFAC1C" alt="Shrey's Github Stats" /></p> -->
+      <p><img align="center" src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=neon-dark&hide_border=true" alt="Shrey's Streak Stat's"/></p>
     </th>
   </tr>
 </table>
