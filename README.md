@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Ayush Pandey
   <p align = "center">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer" alt="ayushpandey"/>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Java+Developer;Web+Developer" alt="ayushpandey"/>
   </p>
 </h1>
 <h3 align="center">Learning new things and implementing them for a good cause.</h3>
