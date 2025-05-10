@@ -130,7 +130,7 @@
   <tr align="center">
     <td>
       <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leet200" height="100" width="100" /></a>
-      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leet50" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="leet50" height="100" width="100" /></a>
       <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="knight" height="100" width="100" /></a>
       <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Guardian.gif" alt="guardian" height="100" width="100" /></a>
     </td>
