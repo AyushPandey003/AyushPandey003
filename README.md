@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushPandey003&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPandey003" width="120" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushPandey003&margin-w=15&margin-h=15&column=7" alt="Trophies" width="500" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushPandey003&margin-w=25&margin-h=25&column=7" alt="Trophies" width="800" />
 </p>
 
 ---
@@ -96,29 +96,60 @@
 
 ---
 
-### 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushPandey003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey003)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coder_ayush_03)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5D2B1A?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/coder_ayush_03)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ayush12122003)
+### 🔗 Connect With Me:Add commentMore actions
+<p align="left">
+  <a href="https://linkedin.com/in/ayushpandey003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/coder_ayush_03" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ayush12122003" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/coder_ayush" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/coder_ayush_leet" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
 ## 📊 Stats
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey003&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey003&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushPandey003&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=neon-dark&hide_border=true" alt="Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushPandey003&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="32%" style="margin: 0 1% 1% 0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPandey003&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="32%" style="margin: 0 1% 1% 1%;" />
+  <img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=neon-dark&hide_border=true" alt="Streak Stats" width="32%" style="margin: 0 0 1% 1%;" />
 </p>
 
 ---
-### 🏆 Featured Projects
+
+## 🏅 Badges
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode 2024-100" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="LeetCode Knight" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Guardian.gif" alt="LeetCode Guardian" height="100" width="100" /></a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/coder_ayush_leet/" target="_blank"><img src="https://leetcard.jacoblin.cool/coder_ayush_leet?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Featured Projects
 
 - **[Multivendor Ecommerce Platform](https://github.com/AyushPandey003/multivendor-ecommerce)**  
   Modern ecommerce platform with dashboards for users, farmers, and admins. Features blogs, reviews, AI chatbots, and analytics.  
