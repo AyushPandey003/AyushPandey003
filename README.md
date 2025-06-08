@@ -31,18 +31,17 @@
 ---
 ### 🏆 Featured Projects
 
-- **[AI-Powered Chatbot](https://github.com/AyushPandey003/ai-chatbot)**  
-  A conversational AI built with Python, TensorFlow, and Flask, deployed on AWS.  
-  *Tech Stack*: Python, TensorFlow, Flask, AWS, Docker  
-  [Live Demo](https://ayush003.vercel.app) | [Repository](https://github.com/AyushPandey003/ai-chatbot)  
-  ![Demo](https://raw.githubusercontent.com/AyushPandey003/AyushPandey003/main/assets/ai-chatbot-demo.png)
+- **[Multivendor Ecommerce Platform](https://github.com/AyushPandey003/multivendor-ecommerce)**  
+  Modern ecommerce platform with dashboards for users, farmers, and admins. Features blogs, reviews, AI chatbots, and analytics.  
+  *Tech Stack*: Next.js 14, PostgreSQL, Drizzle ORM, ShadCN, Vercel AI SDK, D3.js, ApexCharts, Zustand  
+  [Live Demo](#) | [Repository](https://github.com/AyushPandey003/multivendor-ecommerce)  
+  ![Demo](https://raw.githubusercontent.com/AyushPandey003/AyushPandey003/main/assets/grocify.png)
 
-- **[E-Commerce Platform](https://github.com/AyushPandey003/ecommerce)**  
-  A full-stack web app with Next.js, Spring Boot, and MongoDB, featuring secure payments.  
-  *Tech Stack*: Next.js, Spring Boot, MongoDB, GraphQL  
-  [Live Demo](https://ayush003.vercel.app) | [Repository](https://github.com/AyushPandey003/ecommerce)  
-  ![Demo](https://raw.githubusercontent.com/AyushPandey003/AyushPandey003/main/assets/ecommerce-demo.png)
-
+- **[Mom's Love Blog](https://github.com/AyushPandey003/momslove-blog)**  
+  A beautifully themed blog celebrating motherhood with articles, categories, and animations using Next.js 15 and Framer Motion.  
+  *Tech Stack*: Next.js 15, Tailwind CSS, Framer Motion, ZOD, MDX  
+  [Live Demo](#) | [Repository](https://github.com/AyushPandey003/momslove-blog)  
+  ![Demo](https://raw.githubusercontent.com/AyushPandey003/AyushPandey003/main/assets/momslove.png)
 ---
 
 ### 🛠 Tech Stack
