@@ -27,21 +27,6 @@
 - 📫 Reach me: [Ayush12122003@gmail.com](mailto:Ayush12122003@gmail.com)
 - ⚡ Fun fact: Nothing is permanent. There is always scope for improvement.
 - 🌐 Portfolio: [ayush003.vercel.app](https://ayush003.vercel.app)
-
----
-### 🏆 Featured Projects
-
-- **[Multivendor Ecommerce Platform](https://github.com/AyushPandey003/multivendor-ecommerce)**  
-  Modern ecommerce platform with dashboards for users, farmers, and admins. Features blogs, reviews, AI chatbots, and analytics.  
-  *Tech Stack*: Next.js 14, PostgreSQL, Drizzle ORM, ShadCN, Vercel AI SDK, D3.js, ApexCharts, Zustand  
-  [Live Demo](#) | [Repository](https://github.com/AyushPandey003/multivendor-ecommerce)  
-  ![Demo](https://raw.githubusercontent.com/AyushPandey003/AyushPandey003/main/assets/grocify.png)
-
-- **[Mom's Love Blog](https://github.com/AyushPandey003/momslove-blog)**  
-  A beautifully themed blog celebrating motherhood with articles, categories, and animations using Next.js 15 and Framer Motion.  
-  *Tech Stack*: Next.js 15, Tailwind CSS, Framer Motion, ZOD, MDX  
-  [Live Demo](#) | [Repository](https://github.com/AyushPandey003/momslove-blog)  
-  ![Demo](https://raw.githubusercontent.com/AyushPandey003/AyushPandey003/main/assets/momslove.png)
 ---
 
 ### 🛠 Tech Stack
@@ -131,3 +116,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AyushPandey003&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=neon-dark&hide_border=true" alt="Streak Stats" />
 </p>
+
+---
+### 🏆 Featured Projects
+
+- **[Multivendor Ecommerce Platform](https://github.com/AyushPandey003/multivendor-ecommerce)**  
+  Modern ecommerce platform with dashboards for users, farmers, and admins. Features blogs, reviews, AI chatbots, and analytics.  
+  *Tech Stack*: Next.js 14, PostgreSQL, Drizzle ORM, ShadCN, Vercel AI SDK, D3.js, ApexCharts, Zustand  
+  [Live Demo](#) | [Repository](https://grocifymart.vercel.app)  
+  ![Demo](https://github.com/AyushPandey003/AyushPandey003/blob/main/assets/images/grocify.png)
+
+- **[Mom's Love Blog](https://github.com/AyushPandey003/momslove-blog)**  
+  A beautifully themed blog celebrating motherhood with articles, categories, and animations using Next.js 15 and Framer Motion.  
+  *Tech Stack*: Next.js 15, Tailwind CSS, Framer Motion, ZOD, MDX  
+  [Live Demo](#) | [Repository](https://momslove.vercel.app)  
+  ![Demo](https://github.com/AyushPandey003/AyushPandey003/blob/main/assets/images/momslove.png)
+---
