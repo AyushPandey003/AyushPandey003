@@ -140,6 +140,7 @@
       <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365" height="100" width="100" /></a>
       <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="LeetCode Knight" height="100" width="100" /></a>
       <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/Guardian.gif" alt="LeetCode Guardian" height="100" width="100" /></a>
+      <a href="https://leetcode.com/u/coder_ayush_leet" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500" height="100" width="100" /></a>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/coder_ayush_leet/" target="_blank"><img src="https://leetcard.jacoblin.cool/coder_ayush_leet?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" /></a>
