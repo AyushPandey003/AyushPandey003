@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Java+Developer;Web+Developer" alt="ayushpandey" />
   </p>
 </h1>
-
-<h3 align="center">
-  Building impactful software with Python, Java, and modern web technologies 🚀
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushPandey003&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPandey003" width="120" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushPandey003&margin-w=25&margin-h=25&column=7" alt="Trophies" width="800" />
-</p>
+<div align="center">
+  <h3>
+    Building impactful software with Python, Java, and modern web technologies 🚀
+  </h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AyushPandey003&theme=onedark" alt="GitHub Trophies" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AyushPandey003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
