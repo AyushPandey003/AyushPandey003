@@ -1,133 +1,140 @@
-
-<h1 align="center">
-  Hi 👋, I'm Ayush Pandey
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Java+Developer;Web+Developer" alt="ayushpandey" />
-  </p>
-</h1>
 <div align="center">
-  <h3>
-    Building impactful software with Python, Java, and modern web technologies 🚀
-  </h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AyushPandey003&theme=onedark" alt="GitHub Trophies" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Generative+AI+Builder+%F0%9F%A4%96;Python+%26+Java+Engineer+%E2%98%95;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <a href="https://linkedin.com/in/ayushpandey003">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AyushPandey003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:Ayush12122003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ayush003.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/coder_ayush_leet">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AyushPandey003&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
+```yaml
+name      : Ayush Pandey
+location  : India 🇮🇳
+focus     : Generative AI & Full Stack Development
+learning  : DevOps (Docker, Kubernetes, CI/CD)
+open_to   : Social Welfare & Open Source Collaboration
+portfolio : https://ayush003.vercel.app
+contact   : Ayush12122003@gmail.com
+```
 
-- 🔭 Currently working on **Generative AI**
-- 🌱 Learning **DevOps**
-- 👯 Open to collaborate on **Social Welfare Projects**
-- 💬 Ask me about **Development**
-- 👨‍💻 Check out my projects: [GitHub Repositories](https://github.com/AyushPandey003?tab=repositories)
-- 📫 Reach me: [Ayush12122003@gmail.com](mailto:Ayush12122003@gmail.com)
-- ⚡ Fun fact: Nothing is permanent. There is always scope for improvement.
-- 🌐 Portfolio: [ayush003.vercel.app](https://ayush003.vercel.app)
----
-
-### 🛠 Tech Stack
-
-#### Languages & Frameworks
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C++" /><br>C++</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /><br>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" /><br>Java</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" /><br>HTML5</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" /><br>CSS3</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /><br>Next.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /><br>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring Boot" /><br>Spring Boot</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /><br>Node.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL" /><br>GraphQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" /><br>Vue.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" alt="Three.js" /><br>Three.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" /><br>Angular</td>
-    <td align="center"><img src="https://vitejs.dev/logo.svg" width="40" alt="Vite" /><br>Vite</td>
-  </tr>
-</table>
-
-#### Databases & Tools
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /><br>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" /><br>MongoDB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" /><br>Git</td>
-  </tr>
-</table>
-
-#### DevOps & Cloud
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Cloudflare-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" height="28" alt="Cloudflare" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="28" alt="Jenkins" /></td>
-  </tr>
-</table>
+- 🔭 Currently building **Generative AI** applications
+- 🌱 Deepening expertise in **DevOps** and cloud infrastructure
+- 🏆 **LeetCode Guardian** | **500+ problems solved** | **365-day streak**
+- 🎓 **AWS Certified Solutions Architect – Associate** (2024)
+- 👯 Open to collaborating on **Social Welfare** and impactful open-source projects
 
 ---
 
+## 🛠️ Tech Stack
 
-### 🎓 Certifications
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,cs,html,css" />
+</p>
 
-- [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (2024)
-- [DeepLearning.AI Generative AI Specialization](https://www.deeplearning.ai/courses/generative-ai-with-llms/) (2024)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,threejs,tailwind,vite" />
+</p>
 
----
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring,graphql,postgresql,mysql,mongodb" />
+</p>
 
-### 🤝 Recent Contributions
-
-- **[Portfolio Website](https://github.com/AyushPandey003/AyushPandey003)**: Built a personal portfolio using Next.js and Tailwind CSS. [Repository](https://github.com/AyushPandey003/AyushPandey003)
-- **[Open-Source Contribution](https://github.com/facebook/react)**: Fixed a minor bug in React documentation. [PR #12345](https://github.com/facebook/react/pull/12345)
-
-
----
-
-### 🔗 Connect With Me:Add commentMore actions
-<p align="left">
-  <a href="https://linkedin.com/in/ayushpandey003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.codechef.com/users/coder_ayush_03" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ayush12122003" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1ba94c?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://codeforces.com/profile/coder_ayush" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/coder_ayush_leet" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,jenkins,cloudflare" />
 </p>
 
 ---
 
-## 📊 Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey003&bg_color=020200&color=e41d44&line=e77724&point=5cadc0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Momentum</h3>
+      <p>Next-gen AI productivity platform that intelligently decomposes tasks, automates scheduling, and uses gamification + real-time competitive features to make productivity engaging and sustainable.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Generative_AI-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebSockets-Realtime-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gamification-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Task_Scheduling-green?style=flat-square" />
+      </p>
+      <a href="#">🌐 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/AyushPandey003/momentum">📁 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📗 ExcelSmart v2</h3>
+      <p>AI-powered Excel tutor and file analyzer. Upload any .xlsx/.csv to detect errors, view formulas, get AI fixes, and generate complex Excel files with auto-built charts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square" />
+        <img src="https://img.shields.io/badge/EPPlus_7-217346?style=flat-square" />
+      </p>
+      <a href="https://github.com/AyushPandey003/ExcelSmartV2">📁 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 DocGen — JSON to DOCX</h3>
+      <p>Full-stack application that generates beautiful, formatted .docx files from structured JSON. Clean utility tool demonstrating full-stack integration with the docx npm library.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+      <a href="https://github.com/AyushPandey003/docugen">📁 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Grocify Mart</h3>
+      <p>Multivendor ecommerce platform with dashboards for users, farmers, and admins. Features AI chatbot, analytics, blogs, and reviews.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel_AI_SDK-black?style=flat-square&logo=vercel" />
+        <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square" />
+      </p>
+      <a href="https://grocifymart.vercel.app">🌐 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/AyushPandey003/multivendor-ecommerce">📁 Repository</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushPandey003&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="32%" style="margin: 0 1% 1% 0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPandey003&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="32%" style="margin: 0 1% 1% 1%;" />
-  <img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=neon-dark&hide_border=true" alt="Streak Stats" width="32%" style="margin: 0 0 1% 1%;" />
-</p>
+---
+
+## 🎓 Certifications
+
+| Badge | Certification | Year |
+|-------|--------------|------|
+| ☁️ | [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | 2024 |
+| 🤖 | [DeepLearning.AI Generative AI with LLMs Specialization](https://www.deeplearning.ai/courses/generative-ai-with-llms/) | 2024 |
 
 ---
 
@@ -151,17 +158,36 @@
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Stats
 
-- **[Multivendor Ecommerce Platform](https://github.com/AyushPandey003/multivendor-ecommerce)**  
-  Modern ecommerce platform with dashboards for users, farmers, and admins. Features blogs, reviews, AI chatbots, and analytics.  
-  *Tech Stack*: Next.js 14, PostgreSQL, Drizzle ORM, ShadCN, Vercel AI SDK, D3.js, ApexCharts, Zustand  
-  [Live Demo](#) | [Repository](https://grocifymart.vercel.app)  
-  ![Demo](https://github.com/AyushPandey003/AyushPandey003/blob/main/assets/images/grocify.png)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey003&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+</div>
 
-- **[Mom's Love Blog](https://github.com/AyushPandey003/momslove-blog)**  
-  A beautifully themed blog celebrating motherhood with articles, categories, and animations using Next.js 15 and Framer Motion.  
-  *Tech Stack*: Next.js 15, Tailwind CSS, Framer Motion, ZOD, MDX  
-  [Live Demo](#) | [Repository](https://momslove.vercel.app)  
-  ![Demo](https://github.com/AyushPandey003/AyushPandey003/blob/main/assets/images/momslove.png)
+<div align="center">
+  <img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=github-dark-blue&hide_border=true" width="32%" />
+</div>
+
 ---
+
+## 🤝 Find Me On
+
+<p align="center">
+  <a href="https://www.codechef.com/users/coder_ayush_03">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ayush12122003">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/coder_ayush">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <br/>
+  <i>"Being better every moment. Learner Forever!"</i>
+</div>
