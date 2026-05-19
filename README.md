@@ -101,16 +101,16 @@ contact   : Ayush12122003@gmail.com
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 DocGen — JSON to DOCX</h3>
-      <p>Full-stack application that generates beautiful, formatted .docx files from structured JSON. Clean utility tool demonstrating full-stack integration with the docx npm library.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-      <a href="https://github.com/AyushPandey003/docugen">📁 Repository</a>
-    </td>
+    <h3>🔍 BrowseBaba</h3>
+    <p>Context-aware knowledge base pairing dense vector matching with keyword indices over MongoDB Atlas. Extracted nodes preserve DOM XPath tracking markers and media timestamps.</p>
+    <p>
+      <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_Embeddings-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chrome_Extension-F2511B?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Better_Auth-F43F5E?style=flat-square" />
+    </p>
+    <a href="https://github.com/AyushPandey003/browserbaba">📁 Repository</a>
+  </td>
     <td width="50%" valign="top">
       <h3>🛒 Grocify Mart</h3>
       <p>Multivendor ecommerce platform with dashboards for users, farmers, and admins. Features AI chatbot, analytics, blogs, and reviews.</p>
@@ -124,6 +124,30 @@ contact   : Ayush12122003@gmail.com
       <a href="https://grocifymart.vercel.app">🌐 Live Demo</a> &nbsp;|&nbsp;
       <a href="https://github.com/AyushPandey003/multivendor-ecommerce">📁 Repository</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+    <h3>🚨 FraudDetector AI</h3>
+    <p>Streaming analytics interceptor consuming transaction events via Apache Kafka topics. Projects transactional structures into 1536-dimensional vector spaces for instant anomaly mitigation.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </p>
+    <a href="https://github.com/AyushPandey003/CC_fraud">📁 Repository</a>
+  </td>
+  <td width="50%" valign="top">
+    <h3>🎓 Shikshak</h3>
+    <p>Enterprise microservices cluster leveraging Apache Kafka to pipeline and decouple long-running background transcoding loops, utilizing in-memory vector database layers for RAG assistance.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js_Microservices-333333?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB_Pipelines-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+    </p>
+    <a href="https://github.com/AyushPandey003/Shikshak">📁 Repository</a>
+  </td>
   </tr>
 </table>
 
