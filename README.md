@@ -250,11 +250,13 @@ Kafka-decoupled **microservices cluster** for enterprise learning — handles lo
 
 <div align="center">
 
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=AyushPandey003&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey003&bg_color=0d1117&color=0ea5e9&line=6366f1&point=0ea5e9&area=true&area_color=1e3a5f&hide_border=true&radius=8" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=github-dark-blue&hide_border=true&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=6366f1" width="48%"/>
 
 </div>
 
