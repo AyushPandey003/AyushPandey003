@@ -261,7 +261,8 @@ Kafka-decoupled **microservices cluster** for enterprise learning — handles lo
 <br/>
 
 <!-- Streak + Stats side by side -->
-<img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=github-dark-blue&hide_border=true&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=6366f1" width="48%"/>
+<!-- Streak + Stats side by side -->
+<img src="https://github-readme-streak-stats-alpha-seven.vercel.app/?user=AyushPandey003&theme=github-dark-blue&hide_border=true&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=6366f1&cache=1" width="48%"/>
 <br/><br/>
 
 <!-- Top Languages -->
